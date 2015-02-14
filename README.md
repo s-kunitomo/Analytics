@@ -4,6 +4,15 @@
 1. ターミナルを起動
 2. ipython notebook --pylab inline
 3. localhost:8888/treeへアクセス
+ 
+
+#### gitからインストール(例：numpy)
+```
+git clone https://github.com/numpy/numpy.git
+cd numpy
+python setup.py build
+sudo python setup.py install
+```
 
 #### 参考サイト
 - [IPython notebookでブラウザ内にグラフを描画する](http://slowquery.hatenablog.com/entry/2013/04/01/010927)
