@@ -9,3 +9,6 @@
 - [IPython notebookでブラウザ内にグラフを描画する](http://slowquery.hatenablog.com/entry/2013/04/01/010927)
 - [IPython Notebook チュートリアル](http://qiita.com/payashim/items/d4fe5227b21a5215e78b)
 
+#### 参考ブログ
+- [人工知能に関する断創録](http://aidiary.hatenablog.com/)
+- 
